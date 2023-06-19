@@ -7,7 +7,7 @@ import javafx.stage.Stage;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
-public class BindingApplication extends Application {
+public class Main extends Application {
 
     @Override
     public void start(final Stage stage) {

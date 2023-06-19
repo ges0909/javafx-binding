@@ -22,7 +22,7 @@ tasks.withType(JavaCompile).configureEach {
 
 application {
     mainModule = 'com.valantic.sti.tutorial'
-    mainClass = 'com.valantic.sti.tutorial.BindingApplication'
+    mainClass = 'com.valantic.sti.tutorial.Main'
 }
 
 javafx {
